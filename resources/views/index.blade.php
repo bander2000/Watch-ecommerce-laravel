@@ -419,13 +419,13 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="{{ asset('asset/images/c2.jpg') }}" alt="">
+                <img src="{{ asset('asset/images/c1.jpg') }}" alt="">
               </div>
               <div class="detail-box">
                 <div class="client_info">
                   <div class="client_name">
                     <h5>
-                      Alina Hans
+                      Mark Thomas
                     </h5>
                     <h6>
                       Customer
