@@ -13,7 +13,6 @@
 - Voyager admin panel
 - Applay copoun 
 - accurate calculation of tax and discount and total
-- every user has dashboard contain profile and previous order
 - clean ui
 
 ## Screenshots :
